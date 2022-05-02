@@ -1,7 +1,7 @@
 # p5_creations
-Various js generated graphics projects using the p5.js library. This repository includes:
+A few js graphics projects using the p5 library. This repository includes:
 - rose curves based on mouse movement and a spinning polar graph using trig functions
-- recursive tree with branching off based on mousey
+- recursive tree with branching off based on mouse
 - webGL 3-d model of the Earth using various surface textures from equirectangular map projections
-- pointillism rendering of image with user-controlled dot radius
+- pointillism rendering of picture with user-controlled dot radius
 - more to come
